@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{68762D34-B690-4158-928E-14E38565CB46}|CarGalleryApp">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarGalleryApp/Views/Cars/Index.cshtml">
+    <Files>
+      <File FileName="CarGalleryApp/Views/Cars/Details.cshtml" Line="44" Column="9" />
+      <File FileName="CarGalleryApp/Views/Cars/Index.cshtml" Line="30" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspNetCoreWebAppMongoDB" expanded="True">
+            <Node name="CarGalleryApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Cars" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CarGalleryApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

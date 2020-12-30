@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{68762D34-B690-4158-928E-14E38565CB46}|Default" MonoDevelop.Ide.FileNesting.Enabled="False">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarGalleryApp/Views/Cars/Details.cshtml">
+    <Files>
+      <File FileName="CarGalleryApp/Views/Cars/Details.cshtml" Line="1" Column="21" />
+      <File FileName="CarGalleryApp/Views/Cars/Index.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="CarGalleryApp" expanded="True">
+            <Node name="CarGalleryApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Cars" expanded="True">
+                  <Node name="Details.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CarGalleryApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
