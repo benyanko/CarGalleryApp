@@ -16,7 +16,7 @@ namespace CarGalleryApp.Controllers
     public class CarsController : Controller
     {
 
-        private readonly CarService carService;
+        private readonly CarService carService; //carService run db methods
 
 
         public CarsController(CarService carService)
